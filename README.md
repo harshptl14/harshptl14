@@ -1,5 +1,7 @@
 ### Hi theree 👋
 
+![Metrics](https://metrics.lecoq.io/harshptl14?template=classic&config.timezone=Asia%2FCalcutta)
+
 <!--
 **harshptl14/harshptl14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
