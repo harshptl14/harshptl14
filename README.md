@@ -1,6 +1,11 @@
 ### Hi theree 👋
 
 ![Metrics](https://metrics.lecoq.io/harshptl14?template=classic&languages=1&followup=1&stars=1&pagespeed=1&tweets=1&projects=1&pagespeed.detailed=false&pagespeed.screenshot=false&projects.limit=4&tweets.limit=2&stars.limit=4&config.timezone=Asia%2FCalcutta)
+
+
+![](https://komarev.com/ghpvc/?username=harshptl14&color=green)
+
+
 <!--
 **harshptl14/harshptl14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
