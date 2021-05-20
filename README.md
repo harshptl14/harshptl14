@@ -1,8 +1,10 @@
+<link href="markstyle.css" rel="stylesheet"></link>
+
 ![Hello There](https://user-images.githubusercontent.com/57007680/118959394-e9d57e00-b97f-11eb-9b99-e0b2afe69d33.png)
 
-<p class="exampleText">
+<p>
 <h1>Hello there</h1>
-</P>
+</p>
 
 
 ![Metrics](https://metrics.lecoq.io/harshptl14?template=classic&languages=1&followup=1&stars=1&pagespeed=1&tweets=1&projects=1&pagespeed.detailed=false&pagespeed.screenshot=false&projects.limit=4&tweets.limit=2&stars.limit=4&config.timezone=Asia%2FCalcutta)
@@ -24,9 +26,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<style>
-p{
-    color:red;
-}
-</style>
