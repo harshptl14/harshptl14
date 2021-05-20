@@ -17,12 +17,13 @@ I'm Harsh _{/Noun/ - 'Happiness'}_ , frontend and UX developer from India 🇮�
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 
 
-
 <!-- ![Metrics](https://metrics.lecoq.io/harshptl14?template=classic&languages=1&followup=1&stars=1&pagespeed=1&tweets=1&projects=1&pagespeed.detailed=false&pagespeed.screenshot=false&projects.limit=4&tweets.limit=2&stars.limit=4&config.timezone=Asia%2FCalcutta) -->
 
 # Currently listening
 
-[![Spotify](https://novatorem-harshptl14.vercel.app/api/spotify)](https://open.spotify.com/user/s6ao16svonmdyfnwmpwkpmfcb)
+<!-- [![Spotify](https://novatorem-harshptl14.vercel.app/api/spotify)](https://open.spotify.com/user/s6ao16svonmdyfnwmpwkpmfcb)
+ -->
+ [![Spotify](https://novatorem-harshptl14.vercel.app/api/spotify.py)](https://open.spotify.com/user/s6ao16svonmdyfnwmpwkpmfcb)
 
 # 👀
 ![](https://komarev.com/ghpvc/?username=harshptl14&color=green)
