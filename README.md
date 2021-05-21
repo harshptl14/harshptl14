@@ -11,12 +11,11 @@ I'm Harsh _{/Noun/ - 'Happiness'}_ , frontend and UX developer from India ğŸ‡®ğŸ
 
 # Things, I work on
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://user-images.githubusercontent.com/57007680/119020110-7cdfd980-b9bb-11eb-8234-474d09eba75a.png"></code>
-<code><img height="30" src="https://user-images.githubusercontent.com/57007680/119019340-bb28c900-b9ba-11eb-9bb3-e6d8ef817649.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-
-
+<img align="left" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
+<img align="left" height="30" src="https://user-images.githubusercontent.com/57007680/119120951-7b112700-ba4a-11eb-90f5-dc4ad77aeb00.png"/>
+<img align="left" height="30" src="https://user-images.githubusercontent.com/57007680/119019340-bb28c900-b9ba-11eb-9bb3-e6d8ef817649.png">
+<img align="left" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
+<img height="30" src="https://user-images.githubusercontent.com/57007680/119121454-11dde380-ba4b-11eb-89ce-da1cd32f2d31.png"/>
 <!-- ![Metrics](https://metrics.lecoq.io/harshptl14?template=classic&languages=1&followup=1&stars=1&pagespeed=1&tweets=1&projects=1&pagespeed.detailed=false&pagespeed.screenshot=false&projects.limit=4&tweets.limit=2&stars.limit=4&config.timezone=Asia%2FCalcutta) -->
 
 # Currently listening
