@@ -21,8 +21,8 @@ I'm Harsh _{/Noun/ - 'Happiness'}_ , frontend and UX developer from India 🇮�
 # Currently listening
 
 <!-- [![Spotify](https://novatorem-harshptl14.vercel.app/api/spotify)](https://open.spotify.com/user/s6ao16svonmdyfnwmpwkpmfcb)
- -->
- [![Spotify](https://novatorem-harshptl14.vercel.app/api/spotify.py)](https://open.spotify.com/user/s6ao16svonmdyfnwmpwkpmfcb)
+ --> 
+ [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=s6ao16svonmdyfnwmpwkpmfcb&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=s6ao16svonmdyfnwmpwkpmfcb&redirect=true)
 
 # 👀
 ![](https://komarev.com/ghpvc/?username=harshptl14&color=green)
