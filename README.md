@@ -1,12 +1,12 @@
 ![HeyThere](https://user-images.githubusercontent.com/57007680/119012070-54ec7800-b9b3-11eb-8045-06be748572c9.png)
 # About me
 
-I'm Harsh _{/Noun/ - 'Happiness'}_ , frontend and UX developer from India 🇮🇳, building web applications, mobile application etc etc.
+I'm Harsh {/Noun/ - 'Happiness'} , frontend and UX developer from India 🇮🇳, building web applications, mobile applications etc.
 <br>
-- 🏫 I’m Computer Engineer student at charotar university.
+- 🏫 I’m a Computer Engineer student at Charotar University.
 - 🔭 I’m currently working on Portfolio V2.0.
 - 🌱 I’m currently learning Nodejs and GraphQL.
-- 💬 Ask me about Flutter, React and ui/ux.
+- 💬 Ask me about Flutter, React, and UI/UX.
 - 📫 How to reach me: [Instagram](https://www.instagram.com/harshptl14/), [Twitter](https://twitter.com/harshptl14), [LinkedIn](https://twitter.com/harshptl14), [Pinterest](https://www.pinterest.ca/harshptl14/).
 
 # Things, I work on
@@ -18,7 +18,7 @@ I'm Harsh _{/Noun/ - 'Happiness'}_ , frontend and UX developer from India 🇮�
 <img height="30" src="https://user-images.githubusercontent.com/57007680/119121454-11dde380-ba4b-11eb-89ce-da1cd32f2d31.png"/>
 <!-- ![Metrics](https://metrics.lecoq.io/harshptl14?template=classic&languages=1&followup=1&stars=1&pagespeed=1&tweets=1&projects=1&pagespeed.detailed=false&pagespeed.screenshot=false&projects.limit=4&tweets.limit=2&stars.limit=4&config.timezone=Asia%2FCalcutta) -->
 
-# Currently listening
+# Taking this drug right now
 
 <!-- [![Spotify](https://novatorem-harshptl14.vercel.app/api/spotify)](https://open.spotify.com/user/s6ao16svonmdyfnwmpwkpmfcb)
  --> 
@@ -26,6 +26,7 @@ I'm Harsh _{/Noun/ - 'Happiness'}_ , frontend and UX developer from India 🇮�
 
 # 👀
 ![](https://komarev.com/ghpvc/?username=harshptl14&color=green)
+### See you around! hej då 👋
 <!--
 
 Here are some ideas to get you started:
