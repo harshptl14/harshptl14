@@ -7,7 +7,7 @@ I'm Harsh {/Noun/ - 'Happiness'} , frontend and UX developer from India 🇮🇳
 - 🔭 I’m currently working on Portfolio V2.0.
 - 🌱 I’m currently learning Nodejs and GraphQL.
 - 💬 Ask me about Flutter, React, and UI/UX.
-- 📫 How to reach me: [Instagram](https://www.instagram.com/harshptl14/), [Twitter](https://twitter.com/harshptl14), [LinkedIn](https://twitter.com/harshptl14), [Pinterest](https://www.pinterest.ca/harshptl14/).
+- 📫 How to reach me: [Instagram](https://www.instagram.com/harshptl14/), [Twitter](https://twitter.com/harshptl14), [LinkedIn](https://www.linkedin.com/in/harshptl14/), [Pinterest](https://www.pinterest.ca/harshptl14/).
 
 # Things, I work on
 
