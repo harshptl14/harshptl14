@@ -20,10 +20,10 @@ I'm Harsh {/Noun/ - 'Happiness'} , frontend and UX developer from India 🇮🇳
 
 # Taking this drug right now
 
-<!-- [![Spotify](https://novatorem-harshptl14.vercel.app/api/spotify)](https://open.spotify.com/user/s6ao16svonmdyfnwmpwkpmfcb)
- --> 
- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=s6ao16svonmdyfnwmpwkpmfcb&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=s6ao16svonmdyfnwmpwkpmfcb&redirect=true)
-
+[![Spotify](https://novatorem-harshptl14.vercel.app/api/spotify)](https://open.spotify.com/user/s6ao16svonmdyfnwmpwkpmfcb)
+ 
+<!--  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=s6ao16svonmdyfnwmpwkpmfcb&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=s6ao16svonmdyfnwmpwkpmfcb&redirect=true)
+ -->
 # 👀
 ![](https://komarev.com/ghpvc/?username=harshptl14&color=green)
 ### See you around! hej då 👋
