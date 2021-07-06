@@ -5,7 +5,7 @@ I'm Harsh {/Noun/ - 'Happiness'} , software developer from India 🇮🇳, build
 <br>
 - 🏫 I’m a Computer Engineer student at Charotar University.
 - 🔭 I’m currently working on Portfolio V2.0.
-- 🌱 I’m currently learning Nodejs and GraphQL.
+- 🌱 I’m currently learning Nodejs and exploring different application of Python.
 - 💬 Ask me about Flutter, React, and UI/UX.
 - 📫 How to reach me: [Instagram](https://www.instagram.com/harshptl14/), [Twitter](https://twitter.com/harshptl14), [LinkedIn](https://www.linkedin.com/in/harshptl14/), [Pinterest](https://www.pinterest.ca/harshptl14/).
 
