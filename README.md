@@ -1,7 +1,7 @@
 ![HeyThere](https://user-images.githubusercontent.com/57007680/119012070-54ec7800-b9b3-11eb-8045-06be748572c9.png)
 # About me
 
-I'm Harsh {/Noun/ - 'Happiness'} , frontend and UX developer from India 🇮🇳, building web applications, mobile applications etc.
+I'm Harsh {/Noun/ - 'Happiness'} , software developer from India 🇮🇳, building web applications, mobile applications etc.
 <br>
 - 🏫 I’m a Computer Engineer student at Charotar University.
 - 🔭 I’m currently working on Portfolio V2.0.
@@ -18,7 +18,7 @@ I'm Harsh {/Noun/ - 'Happiness'} , frontend and UX developer from India 🇮🇳
 <img height="30" src="https://user-images.githubusercontent.com/57007680/119121454-11dde380-ba4b-11eb-89ce-da1cd32f2d31.png"/>
 <!-- ![Metrics](https://metrics.lecoq.io/harshptl14?template=classic&languages=1&followup=1&stars=1&pagespeed=1&tweets=1&projects=1&pagespeed.detailed=false&pagespeed.screenshot=false&projects.limit=4&tweets.limit=2&stars.limit=4&config.timezone=Asia%2FCalcutta) -->
 
-# Taking this drug right now
+# Listening this
 
 <!-- [![Spotify](https://novatorem-harshptl14.vercel.app/api/spotify)](https://open.spotify.com/user/s6ao16svonmdyfnwmpwkpmfcb)
   -->
