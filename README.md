@@ -24,8 +24,14 @@ I'm Harsh {/Noun/ - 'Happiness'} , software developer from India 🇮🇳, build
   -->
  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=s6ao16svonmdyfnwmpwkpmfcb&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=s6ao16svonmdyfnwmpwkpmfcb&redirect=true)
 
-# 👀
+<!-- 
+<details>
+<summary>👀</summary>
+
 ![](https://komarev.com/ghpvc/?username=harshptl14&color=green)
+
+</details> -->
+
 ### See you around! hej då 👋
 <!--
 
