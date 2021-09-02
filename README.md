@@ -1,7 +1,7 @@
 <!-- ![HeyThere](https://user-images.githubusercontent.com/57007680/119012070-54ec7800-b9b3-11eb-8045-06be748572c9.png) -->
 # About me
 
-I'm Harsh {/Noun/ - 'Happiness'} , software developer from India 🇮🇳, building web applications, mobile applications etc.
+I'm Harsh {/Noun/ - 'Happiness'} , software developer from India 🇮🇳, building web applications, mobile applications and adjusting sizes in Figma etc.
 <br>
 - 🏫 I’m a Computer Engineer student at Charotar University.
 - 🔭 I’m currently working on Portfolio V2.0.
