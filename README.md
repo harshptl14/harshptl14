@@ -2,7 +2,7 @@
 <!-- {/Noun/ - 'Happiness'} -->
 # About me
 
-I'm Harsh, a software developer from India, who spends his day time developing software for @simform and his nights building indie web and mobile tools,  and changing sizes in Figma when he gets fomo.
+I'm Harsh, a software developer from India, who spends his day-time developing software for @simform, his night-time building indie web and mobile tools, and occasionally changing sizes in Figma when he gets fomo.
 <br>
 - 🏫 I’m a SDE at @simform.
 - 🔭 I’m currently working on Portfolio v2.0.
