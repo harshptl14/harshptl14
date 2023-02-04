@@ -2,24 +2,26 @@
 <!-- {/Noun/ - 'Happiness'} -->
 # About me
 
-I'm Harsh, software developer from India 🇮🇳, building web applications, mobile applications and adjusting sizes in Figma.
+I'm Harsh, a software developer from India, who spends his day time developing software for @simform and his nights building indie web and mobile tools,  and changing sizes in Figma when he gets fomo.
 <br>
-- 🏫 I’m a Computer Engineer student at Charotar University.
-- 🔭 I’m currently working on ToolPool(Side Project).
-- 🌱 I’m currently learning NextJS and Gatsby.
-- 💬 Ask me about Flutter, React, and UI/UX.
+- 🏫 I’m a SDE at @simform.
+- 🔭 I’m currently working on Portfolio v2.0.
+- 🌱 I’m currently learning Gatsby + GraphQL.
+- 💬 Ask me about Web development, React, Flutter, and UI/UX.
 - 📫 How to reach me: [Instagram](https://www.instagram.com/harshptl14/), [Twitter](https://twitter.com/harshptl14), [LinkedIn](https://www.linkedin.com/in/harshptl14/), [Pinterest](https://www.pinterest.ca/harshptl14/).
 
-# Things, I work on
+# Things, I work on!
 
+<img align="left" height="30" src="https://user-images.githubusercontent.com/57007680/216753561-22218eda-6ccf-40ad-b678-146a058e48ca.png"/>
 <img align="left" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
+<img align="left" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
+<img align="left" height="30" src="https://user-images.githubusercontent.com/57007680/216753869-e317b277-5477-483c-a1c9-38638933c701.png"/>
 <img align="left" height="30" src="https://user-images.githubusercontent.com/57007680/119120951-7b112700-ba4a-11eb-90f5-dc4ad77aeb00.png"/>
 <img align="left" height="30" src="https://user-images.githubusercontent.com/57007680/119019340-bb28c900-b9ba-11eb-9bb3-e6d8ef817649.png">
-<img align="left" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
 <img height="30" src="https://user-images.githubusercontent.com/57007680/119121454-11dde380-ba4b-11eb-89ce-da1cd32f2d31.png"/>
 <!-- ![Metrics](https://metrics.lecoq.io/harshptl14?template=classic&languages=1&followup=1&stars=1&pagespeed=1&tweets=1&projects=1&pagespeed.detailed=false&pagespeed.screenshot=false&projects.limit=4&tweets.limit=2&stars.limit=4&config.timezone=Asia%2FCalcutta) -->
 
-# Listening this
+#  Vibin' this
 
 <!-- [![Spotify](https://novatorem-harshptl14.vercel.app/api/spotify)](https://open.spotify.com/user/s6ao16svonmdyfnwmpwkpmfcb)
   -->
@@ -33,7 +35,7 @@ I'm Harsh, software developer from India 🇮🇳, building web applications, mo
 
 </details>
 
-### See you around! hej då 👋
+### See you around! Hejdå👋
 <!--
 
 Here are some ideas to get you started:
