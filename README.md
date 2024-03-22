@@ -2,9 +2,9 @@
 <!-- {/Noun/ - 'Happiness'} -->
 # About me
 
-I'm Harsh, a graduate student in computer science, who spends his day-time in SUNY New Paltz, and his night-time building indie web and mobile tools, and occasionally changing sizes in Figma when he gets fomo.
+I'm Harsh, a graduate student in computer science, who spends his day in SUNY New Paltz, and his night building indie web and mobile tools, and occasionally changing sizes in Figma when he gets fomo.
 <br>
-- 🔭 I’m currently working on a meme app.
+- 🔭 I’m currently working on one of the tools for toolpool.cool.
 - 🌱 I’m currently learning old-school Java.
 - 💬 Ask me about Web development, React, Flutter, and UI/UX.
 - 📫 How to reach me: [Instagram](https://www.instagram.com/harshptl14/), [Twitter](https://twitter.com/harshptl14), [LinkedIn](https://www.linkedin.com/in/harshptl14/), [Pinterest](https://www.pinterest.ca/harshptl14/).
