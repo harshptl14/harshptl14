@@ -20,11 +20,12 @@ I'm Harsh, a graduate student in computer science, who spends his day in SUNY Ne
 <img height="30" src="https://user-images.githubusercontent.com/57007680/119121454-11dde380-ba4b-11eb-89ce-da1cd32f2d31.png"/>
 <!-- ![Metrics](https://metrics.lecoq.io/harshptl14?template=classic&languages=1&followup=1&stars=1&pagespeed=1&tweets=1&projects=1&pagespeed.detailed=false&pagespeed.screenshot=false&projects.limit=4&tweets.limit=2&stars.limit=4&config.timezone=Asia%2FCalcutta) -->
 
-#  Vibin' this
 
-<!-- [![Spotify](https://novatorem-harshptl14.vercel.app/api/spotify)](https://open.spotify.com/user/s6ao16svonmdyfnwmpwkpmfcb)
+<!-- 
+#  Vibin' this
+[![Spotify](https://novatorem-harshptl14.vercel.app/api/spotify)](https://open.spotify.com/user/s6ao16svonmdyfnwmpwkpmfcb)
   -->
- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=s6ao16svonmdyfnwmpwkpmfcb&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=s6ao16svonmdyfnwmpwkpmfcb&redirect=true)
+ <!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=s6ao16svonmdyfnwmpwkpmfcb&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=s6ao16svonmdyfnwmpwkpmfcb&redirect=true) -->
 
 
 <details>
